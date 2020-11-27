@@ -21,4 +21,4 @@
 - [小程序](./mini_program/index.md)
 - [源码分析](./source_code/index.md)
 - [前端算法](./algorithms/index.md)
-- [前端笔记碎片] (./notes/index.md)
+- [前端笔记碎片](./notes/index.md)
